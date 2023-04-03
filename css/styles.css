@@ -104,7 +104,7 @@ img {
     background-color: #404BBF;
     display: block;
     border-radius: 2px;
-    margin-top: 20px;
+    margin-top: 24px;
 }
 
 
@@ -380,10 +380,11 @@ img {
     border: 1px solid #404BBF;
 }
 
-.customers-link:hover > .customers-icon {
+.customers-link:hover>.customers-icon {
     fill: #404BBF;
 }
-.customers-link:focus > .customers-icon {
+
+.customers-link:focus>.customers-icon {
     fill: #404BBF;
 }
 
