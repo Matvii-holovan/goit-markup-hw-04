@@ -376,7 +376,6 @@ img {
 .customers-link:hover>.customers-icon {
     fill: #404BBF;
 }
-
 .customers-link:focus>.customers-icon {
     fill: #404BBF;
 }
@@ -503,8 +502,8 @@ img {
     width: calc((100% - 48px) / 3);
 }
 
-.portfolio-link:hover,
-.portfolio-link:focus {
+.portfolio-item:hover,
+.portfolio-item:focus {
     box-shadow: 0px 1px 6px rgba(46, 47, 66, 0.08), 0px 1px 1px rgba(46, 47, 66, 0.16), 0px 2px 1px rgba(46, 47, 66, 0.08);
 }
 
